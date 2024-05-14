@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindos ao meu perfil 💙
 
-<!--
-**Santinimr/Santinimr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rodrigo Santini 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Me desenvolvendo na linguagem de programação Javascript
+- Utilizo esse espaço para me organizar e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+- ### Você entra em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 00002086936723sp@al.educacao.sp.gov.br
+- @Osantini.
+
+- ![naruto-นารูโตะ](https://github.com/Santinimr/Santinimr/assets/169844366/78915e36-ea50-4e88-bb84-fc7611dba566)
